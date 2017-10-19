@@ -1,0 +1,25 @@
+{
+  "name": "playing-cards-playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "pingy dev",
+    "export": "pingy export"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/generalyi0057/playing-cards-playground.git"
+  },
+  "author": "Daniel Chiang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/generalyi0057/playing-cards-playground/issues"
+  },
+  "homepage": "https://github.com/generalyi0057/playing-cards-playground#readme",
+  "devDependencies": {
+    "@pingy/cli": "^0.9.3",
+    "node-sass": "^4.5.3"
+  }
+}
